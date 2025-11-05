@@ -1,1 +1,1 @@
-# startimg my new journey learning react 
+# starting my new journey learning react 
